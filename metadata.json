@@ -1,0 +1,6 @@
+{
+  "name": "TerraGeopolitica: Climate Finance & Geopolitics Platform",
+  "description": "Strategic, legal, and economic analysis dashboard tracking climate finance leverage, CBAM border levies, carbon market fragmentation, and Global North-South statecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
